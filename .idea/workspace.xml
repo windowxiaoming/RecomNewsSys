@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b89b28f-7a86-452e-a45d-0019bc4e4342" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/RecomNewsSys$build_readme.coverage" NAME="build_readme Coverage Results" MODIFIED="1564729819525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engines/spotlight" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1566787608679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$Nosetests_for_test_layers_test_embeddings.coverage" NAME="Nosetests for pytest test_layers.test_embeddings Coverage Results" MODIFIED="1564568963588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engines/spotlight/" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$pytest_for_test_interactions_test_known_output_step_1.coverage" NAME="pytest for test_interactions.test_known_output_step_1 Coverage Results" MODIFIED="1565084553766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engines/tests" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$aaa__1_.coverage" NAME="aaa (1) Coverage Results" MODIFIED="1565835480892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cache" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$manage.coverage" NAME="manage Coverage Results" MODIFIED="1571815078563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$logger.coverage" NAME="logger Coverage Results" MODIFIED="1563874899145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$ff.coverage" NAME="ff Coverage Results" MODIFIED="1563878178226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$ttt.coverage" NAME="ttt Coverage Results" MODIFIED="1572506825855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/storage/workspace/zhujie/RecomNewsSys" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$movielens.coverage" NAME="movielens Coverage Results" MODIFIED="1564969468622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engines/hoge/datasets" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$content_based.coverage" NAME="content_based Coverage Results" MODIFIED="1571822310353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hogedata" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$othon.coverage" NAME="othon Coverage Results" MODIFIED="1567127784728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hogedata" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1563930056713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/manipulate_mongo" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$abc.coverage" NAME="abc Coverage Results" MODIFIED="1572573083952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cache" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$t_mongodb.coverage" NAME="t_mongodb Coverage Results" MODIFIED="1572505527971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/storage/workspace/zhujie/RecomNewsSys" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$pytest_in_train_py.coverage" NAME="pytest in train.py Coverage Results" MODIFIED="1566804568044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hoge" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$init_partition.coverage" NAME="init_partition Coverage Results" MODIFIED="1566546197082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hogedata" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$ids_transformer.coverage" NAME="ids_transformer Coverage Results" MODIFIED="1564990456044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cache" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$extractor.coverage" NAME="extractor Coverage Results" MODIFIED="1570786339394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$aaaaa.coverage" NAME="aaaaa Coverage Results" MODIFIED="1565601089956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hogedata_init" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$t_update.coverage" NAME="t_update Coverage Results" MODIFIED="1572589952621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$newsdata.coverage" NAME="newsdata Coverage Results" MODIFIED="1564970338232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engines/hoge/datasets" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$usercf_recommend_list.coverage" NAME="usercf_recommend_list Coverage Results" MODIFIED="1573522688939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hogedata" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$Nosetests_for_test_sample_test_func.coverage" NAME="Nosetests for test_sample.test_func Coverage Results" MODIFIED="1564569498958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utilities" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$http_server.coverage" NAME="http_server Coverage Results" MODIFIED="1567756755475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$cfg.coverage" NAME="cfg Coverage Results" MODIFIED="1563931810666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$tt.coverage" NAME="tt Coverage Results" MODIFIED="1565321339234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engines" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$train.coverage" NAME="train Coverage Results" MODIFIED="1571795700183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hoge" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$pp_mong.coverage" NAME="pp_mong Coverage Results" MODIFIED="1571797127076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$check_system.coverage" NAME="check_system Coverage Results" MODIFIED="1569742927577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$update_mon.coverage" NAME="update_mon Coverage Results" MODIFIED="1571724011150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$Nosetests_for_test_class_TestClass_test_two.coverage" NAME="Nosetests for test_class.TestClass.test_two Coverage Results" MODIFIED="1564569481574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utilities" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$mongo2csv.coverage" NAME="mongo2csv Coverage Results" MODIFIED="1565083407359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/manipulate_mongo" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$DataFlowsMerge.coverage" NAME="DataFlowsMerge Coverage Results" MODIFIED="1566525118276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/storage/workspace/zhujie/RecomNewsSys/hogedata" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$t_post.coverage" NAME="t_post Coverage Results" MODIFIED="1565248943930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feed" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$resume_partition.coverage" NAME="resume_partition Coverage Results" MODIFIED="1570764703379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hogedata" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$time_management.coverage" NAME="time_management Coverage Results" MODIFIED="1564554134636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/manipulate_mongo" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$statistic.coverage" NAME="statistic Coverage Results" MODIFIED="1567644375789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/storage/workspace/zhujie/RecomNewsSys/" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$cross_validation.coverage" NAME="cross_validation Coverage Results" MODIFIED="1565081310736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hoge" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$bbb.coverage" NAME="bbb Coverage Results" MODIFIED="1565668170734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hogedata" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$pytest_in_test_evaluation_metrics_py.coverage" NAME="pytest in test_evaluation_metrics.py Coverage Results" MODIFIED="1564572192882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engines/spotlight/" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$Nosetests_in_test_layers_py.coverage" NAME="Nosetests in test_layers.py Coverage Results" MODIFIED="1564569959239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engines/spotlight/" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$apptest.coverage" NAME="apptest Coverage Results" MODIFIED="1571711282904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$movielens_sequence.coverage" NAME="movielens_sequence Coverage Results" MODIFIED="1564740003929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engines/spotlight/examples/movielens_sequence" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$pytest_for_test_layers_test_embeddings.coverage" NAME="pytest for test_layers.test_embeddings Coverage Results" MODIFIED="1564570219397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engines/spotlight/" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$t_TfidfVectorizer.coverage" NAME="t_TfidfVectorizer Coverage Results" MODIFIED="1573107185923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$Content_Based.coverage" NAME="Content_Based Coverage Results" MODIFIED="1567675935417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hogedata" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$FeedData.coverage" NAME="FeedData Coverage Results" MODIFIED="1565248962658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feed" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$feed.coverage" NAME="feed Coverage Results" MODIFIED="1566467105141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$t_aggregate.coverage" NAME="t_aggregate Coverage Results" MODIFIED="1573098742049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$partition.coverage" NAME="partition Coverage Results" MODIFIED="1565313267056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/manipulate_mongo" />
+    <SUITE FILE_PATH="coverage/RecomNewsSys$manage__1_.coverage" NAME="manage (1) Coverage Results" MODIFIED="1571016746904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1309947769">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="128" />
+          <entry key="project.open.time.0" value="24" />
+          <entry key="project.open.time.1" value="73" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.2" value="16" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="8" />
+          <entry key="project.opened" value="129" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="1" value="23" />
+          <entry key="2" value="23" />
+          <entry key="AUTHORS" value="1" />
+          <entry key="DataFlowConfig" value="1" />
+          <entry key="LICENSE" value="1" />
+          <entry key="Makefile" value="1" />
+          <entry key="TAG" value="1" />
+          <entry key="_bootstrap&gt;" value="2" />
+          <entry key="c" value="3" />
+          <entry key="cfg" value="2" />
+          <entry key="cpp" value="2" />
+          <entry key="csv" value="225" />
+          <entry key="gitignore" value="2" />
+          <entry key="ini" value="63" />
+          <entry key="ini_" value="2" />
+          <entry key="ipynb" value="2" />
+          <entry key="lock" value="17" />
+          <entry key="log" value="1" />
+          <entry key="md" value="32" />
+          <entry key="nodeids" value="1" />
+          <entry key="png" value="29" />
+          <entry key="proto" value="1" />
+          <entry key="py" value="903" />
+          <entry key="rst" value="9" />
+          <entry key="sh" value="2" />
+          <entry key="stepwise" value="1" />
+          <entry key="txt" value="69" />
+          <entry key="yaml" value="9" />
+          <entry key="yml" value="207" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Bash" value="2" />
+          <entry key="C++" value="5" />
+          <entry key="IPNB" value="2" />
+          <entry key="Image" value="29" />
+          <entry key="Ini" value="65" />
+          <entry key="JSP" value="1" />
+          <entry key="Markdown" value="32" />
+          <entry key="PLAIN_TEXT" value="369" />
+          <entry key="PyRemoteDebug" value="16" />
+          <entry key="Python" value="889" />
+          <entry key="ReST" value="9" />
+          <entry key="YAML" value="216" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Makefile" value="4" />
+          <entry key="Python Console" value="6192" />
+          <entry key="csv" value="155" />
+          <entry key="dummy" value="143" />
+          <entry key="ini" value="1433" />
+          <entry key="log" value="3" />
+          <entry key="md" value="1286" />
+          <entry key="proto" value="3" />
+          <entry key="py" value="46484" />
+          <entry key="pyx" value="2" />
+          <entry key="txt" value="164" />
+          <entry key="yaml" value="18" />
+          <entry key="yml" value="89" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Cython" value="2" />
+          <entry key="Ini" value="1433" />
+          <entry key="Markdown" value="1286" />
+          <entry key="PLAIN_TEXT" value="472" />
+          <entry key="Python" value="52676" />
+          <entry key="YAML" value="107" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hogedata/statistic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <element signature="e#20#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="342">
+                <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hogedata/extractor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hogedata/usercf_recommend_list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="779">
+              <caret line="45" column="45" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="45" />
+              <folding>
+                <element signature="e#20#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hogedata/contentcf_recommend_list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1045">
+              <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hoge/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3553">
+              <caret line="191" column="35" selection-start-line="191" selection-start-column="35" selection-end-line="191" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="36" column="17" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hogedata/init_partition.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="779">
+              <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/region_data127.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/t_groupby.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>VI00F0T066R31AK</find>
+      <find>VI00F9V09WU0C9B</find>
+      <find>193677</find>
+      <find>194995</find>
+      <find>88841</find>
+      <find>100667</find>
+      <find>100820</find>
+      <find>101156</find>
+      <find>176562</find>
+      <find>176560</find>
+      <find>176559</find>
+      <find>176557</find>
+      <find>content_ids_index</find>
+      <find>21560</find>
+      <find>save_data_content_info</find>
+      <find>save_user_info</find>
+      <find>get_df</find>
+      <find>SLEEP_H</find>
+      <find>322488</find>
+      <find>158220</find>
+      <find>161610</find>
+      <find>GetCustomerIds</find>
+      <find>content_recommend</find>
+      <find>train_bpr_bloom</find>
+      <find>tfidf_model</find>
+      <find>mongo_push_usercf</find>
+      <find>similarity has processd</find>
+      <find>similarity</find>
+      <find>set_customer_conifg</find>
+      <find>start_subengine</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cache/aaa.py" />
+        <option value="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/637626072/934714019/bson/objectid.py" />
+        <option value="$PROJECT_DIR$/region_data/267.csv" />
+        <option value="$PROJECT_DIR$/hoge/interactions.py" />
+        <option value="$PROJECT_DIR$/hogedata/abc.py" />
+        <option value="$PROJECT_DIR$/feed.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/sys_logs/http_server.log" />
+        <option value="$PROJECT_DIR$/aaa.py" />
+        <option value="$PROJECT_DIR$/logger.py" />
+        <option value="$PROJECT_DIR$/hoge_u/main.py" />
+        <option value="$PROJECT_DIR$/region_data/121_data_content_ids.yml" />
+        <option value="$PROJECT_DIR$/cache/2.csv" />
+        <option value="$PROJECT_DIR$/hogedata/othon.py" />
+        <option value="$PROJECT_DIR$/hogedata/othon.pyx" />
+        <option value="$PROJECT_DIR$/cache/376_tfdf.yml" />
+        <option value="$PROJECT_DIR$/cache/1.csv" />
+        <option value="$PROJECT_DIR$/hogedata/DataFlowsMerge.py" />
+        <option value="$PROJECT_DIR$/customer_ids.yml" />
+        <option value="$PROJECT_DIR$/hogedata/history_records.py" />
+        <option value="$PROJECT_DIR$/doc/厚建推荐系统报告.md" />
+        <option value="$PROJECT_DIR$/http_server.py" />
+        <option value="$PROJECT_DIR$/hogedata/init_partition.py" />
+        <option value="$PROJECT_DIR$/A_app.py" />
+        <option value="$PROJECT_DIR$/B_app.py" />
+        <option value="$PROJECT_DIR$/C_app.py" />
+        <option value="$PROJECT_DIR$/apptest.py" />
+        <option value="$PROJECT_DIR$/update_mon.py" />
+        <option value="$PROJECT_DIR$/pp_mong.py" />
+        <option value="$PROJECT_DIR$/hogedata/Content_Based.py" />
+        <option value="$PROJECT_DIR$/t_mongodb.py" />
+        <option value="$PROJECT_DIR$/hogedata/resume_partition.py" />
+        <option value="$PROJECT_DIR$/hogedata/redis_cache.py" />
+        <option value="$PROJECT_DIR$/ttt.py" />
+        <option value="$PROJECT_DIR$/hogedata/extractor.py" />
+        <option value="$PROJECT_DIR$/test/t_update.py" />
+        <option value="$PROJECT_DIR$/hogedata/add_recommend_list.py" />
+        <option value="$PROJECT_DIR$/hogedata/content_based.py" />
+        <option value="$PROJECT_DIR$/hogedata/time_management.py" />
+        <option value="$PROJECT_DIR$/check_system.py" />
+        <option value="$PROJECT_DIR$/cache/abc.py" />
+        <option value="$PROJECT_DIR$/test/t_groupby.py" />
+        <option value="$PROJECT_DIR$/test/t_aggregate.py" />
+        <option value="$PROJECT_DIR$/test/t_TfidfVectorizer.py" />
+        <option value="$PROJECT_DIR$/hogedata/contentcf_recommend_list.py" />
+        <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/Config.ini" />
+        <option value="$PROJECT_DIR$/hoge/train.py" />
+        <option value="$PROJECT_DIR$/hogedata/usercf_recommend_list.py" />
+        <option value="$PROJECT_DIR$/hogedata/statistic.py" />
+        <option value="$PROJECT_DIR$/readme.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="46" />
+    <option name="y" value="23" />
+    <option name="width" value="1874" />
+    <option name="height" value="1177" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RecomNewsSys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RecomNewsSys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RecomNewsSys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RecomNewsSys" type="462c0819:PsiDirectoryNode" />
+              <item name="hoge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RecomNewsSys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RecomNewsSys" type="462c0819:PsiDirectoryNode" />
+              <item name="hogedata" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowConcurrent Activities Diagram.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/doc" />
+      <recent name="$PROJECT_DIR$/hoge" />
+      <recent name="$PROJECT_DIR$/feed" />
+      <recent name="$PROJECT_DIR$/engines/region_data" />
+      <recent name="$PROJECT_DIR$/engines/spotlight/spotlight/datasets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/cache" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/enviroment" />
+      <recent name="$PROJECT_DIR$/manipulate_mongo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.usercf_recommend_list">
+    <configuration name="abc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RecomNewsSys" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cache" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cache/abc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t_TfidfVectorizer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RecomNewsSys" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/t_TfidfVectorizer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t_aggregate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RecomNewsSys" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/t_aggregate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t_update" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RecomNewsSys" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/t_update.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="usercf_recommend_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RecomNewsSys" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hogedata" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hogedata/usercf_recommend_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.abc" />
+      <item itemvalue="Python.t_update" />
+      <item itemvalue="Python.t_aggregate" />
+      <item itemvalue="Python.t_TfidfVectorizer" />
+      <item itemvalue="Python.usercf_recommend_list" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.usercf_recommend_list" />
+        <item itemvalue="Python.t_TfidfVectorizer" />
+        <item itemvalue="Python.t_aggregate" />
+        <item itemvalue="Python.t_update" />
+        <item itemvalue="Python.abc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b89b28f-7a86-452e-a45d-0019bc4e4342" name="Default Changelist" comment="" />
+      <created>1563862010665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563862010665</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_test_layers_test_embeddings - 2019.07.31 at 18h 48m 03s.xml">
+      <configuration name="pytest for test_layers.test_embeddings" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_layers_test_embeddings - 2019.07.31 at 18h 48m 36s.xml">
+      <configuration name="pytest for test_layers.test_embeddings" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_layers_test_embeddings - 2019.07.31 at 18h 49m 32s.xml">
+      <configuration name="pytest for test_layers.test_embeddings" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_layers_test_embeddings - 2019.07.31 at 18h 50m 06s.xml">
+      <configuration name="pytest for test_layers.test_embeddings" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_layers_test_embeddings - 2019.07.31 at 19h 06m 50s.xml">
+      <configuration name="pytest for test_layers.test_embeddings" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_evaluation_metrics_py - 2019.07.31 at 19h 22m 31s.xml">
+      <configuration name="pytest in test_evaluation_metrics.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_evaluation_metrics_py - 2019.07.31 at 19h 23m 09s.xml">
+      <configuration name="pytest in test_evaluation_metrics.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_evaluation_metrics_py - 2019.07.31 at 19h 49m 53s.xml">
+      <configuration name="pytest in test_evaluation_metrics.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_interactions_test_known_output_step_1 - 2019.08.06 at 17h 42m 35s.xml">
+      <configuration name="pytest for test_interactions.test_known_output_step_1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_train_py - 2019.08.26 at 15h 29m 28s.xml">
+      <configuration name="pytest in train.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="46" y="23" width="1874" height="1177" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22216158" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299539" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48613375" weight="0.23870967" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49617904" weight="0.39907834" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299539" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.6113537" visible="true" weight="0.5419355" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.51386625" side_tool="true" weight="0.38064516" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4921153" weight="0.3078341" />
+      <window_info anchor="bottom" id="File Transfer" order="13" sideWeight="0.4978166" weight="0.2" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" show_stripe_button="false" weight="0.32903227" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32969433" />
+      <window_info anchor="right" id="LuaJ" order="5" weight="0.32969433" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Mongo Explorer" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/engines/tests/test_layers.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/engines/examples/movielens_sequence/movielens_sequence.py</url>
+          <line>291</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/engines/tests/test_interactions.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/engines/tests/test_interactions.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hoge/torch_utils.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hogedata/region285.csv" />
+    <entry file="file://$PROJECT_DIR$/doc/厚建推荐系统报告.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="17" selection-start-line="17" selection-end-line="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hogedata/DataFlowsMerge.py" />
+    <entry file="file://$PROJECT_DIR$/data_exp.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/region_data/83_data_content_ids.yml" />
+    <entry file="file://$PROJECT_DIR$/region_data/83_users.yml" />
+    <entry file="file://$PROJECT_DIR$/http_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="695">
+          <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B_app.py" />
+    <entry file="file://$PROJECT_DIR$/C_app.py" />
+    <entry file="file://$PROJECT_DIR$/apptest.py" />
+    <entry file="file://$PROJECT_DIR$/A_app.py" />
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/1121305611/-894951506/pymongo/collection.py" />
+    <entry file="file://$PROJECT_DIR$/update_mon.py" />
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/1121305611/-894951506/pymongo/mongo_client.py" />
+    <entry file="file://$PROJECT_DIR$/pp_mong.py" />
+    <entry file="file://$PROJECT_DIR$/logger.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sys_logs/log.txt.1" />
+    <entry file="file://$PROJECT_DIR$/sys_logs/log.txt.2" />
+    <entry file="file://$PROJECT_DIR$/sys_logs/log.txt" />
+    <entry file="file://$PROJECT_DIR$/t_mongodb.py" />
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cache/83.csv" />
+    <entry file="file://$PROJECT_DIR$/cache/267.csv" />
+    <entry file="file://$PROJECT_DIR$/cache/165.csv" />
+    <entry file="file://$PROJECT_DIR$/cache/2.csv" />
+    <entry file="file://$PROJECT_DIR$/hogedata/resume_partition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="75" column="18" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hogedata/time_management.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hoge/torch_utils.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/t_update.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="60" selection-start-line="15" selection-end-line="15" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/region_data/127.csv" />
+    <entry file="file://$PROJECT_DIR$/region_data/83.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="172" lean-forward="true" selection-start-line="172" selection-end-line="172" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cache/abc.py" />
+    <entry file="file://$PROJECT_DIR$/cache/1.csv" />
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/1121305611/-894951506/pandas/core/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="286" column="8" selection-start-line="286" selection-start-column="8" selection-end-line="286" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/t_aggregate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/t_TfidfVectorizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/1121305611/1344547914/configparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="761" column="8" selection-start-line="761" selection-start-column="8" selection-end-line="761" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/1121305611/-894951506/sklearn/feature_extraction/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28082">
+          <caret line="1500" column="8" selection-start-line="1500" selection-start-column="8" selection-end-line="1500" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer_ids.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6403">
+          <caret line="337" column="8" selection-start-line="337" selection-start-column="8" selection-end-line="337" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hogedata/statistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#20#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check_system.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2071">
+          <caret line="112" column="40" selection-start-line="112" selection-start-column="40" selection-end-line="112" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hogedata/extractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hogedata/usercf_recommend_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="45" column="45" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="45" />
+          <folding>
+            <element signature="e#20#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hogedata/contentcf_recommend_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hoge/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3553">
+          <caret line="191" column="35" selection-start-line="191" selection-start-column="35" selection-end-line="191" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hogedata/init_partition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/region_data127.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/t_groupby.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="342">
+            <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

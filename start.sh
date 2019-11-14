@@ -1,0 +1,1 @@
+mongod --dbpath=db --bind_ip=0.0.0.0 --port=27017
